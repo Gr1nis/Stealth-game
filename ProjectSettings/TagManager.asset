@@ -5,15 +5,17 @@ TagManager:
   serializedVersion: 3
   tags:
   - 'KeyCard '
+  - Barrier
+  - Light
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - Interactable
+  - Obstacle
   - 
   - 
   - 
